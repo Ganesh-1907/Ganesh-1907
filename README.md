@@ -6,7 +6,7 @@
 <img src="https://github.com/Ganesh-1907/Ganesh-1907/raw/main/header_banner__1_.png"
      alt="Ganesh Bora" width="100%"/>
 
-<br/><br/>
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ganesh-1907&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Ganesh-1907)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshbora1103)
@@ -41,8 +41,6 @@ me.say_hi()
 ---
 
 ## 🛠️ Tech Stack
-
-> 💡 *Hover over any icon to see the technology name!*
 
 ### 🎨 Frontend
 
