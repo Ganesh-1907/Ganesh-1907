@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Ganesh-1907/Ganesh-1907/raw/main/header_banner.png"
+<img src="https://github.com/Ganesh-1907/Ganesh-1907/raw/main/header_banner__1_.png"
      alt="Ganesh Bora" width="100%"/>
 
 <br/><br/>
